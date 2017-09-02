@@ -21,3 +21,8 @@ left: 0;
 width: 100%;
 height: 100%;
 }
+
+h3.section-subheading-normal {
+	font-size:16px;
+	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
